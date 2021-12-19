@@ -16,13 +16,13 @@
 
 ### Pré-requisitos
 
-Java 11
+*  Java 11
 
 ### EndPoints
 
 A API se resume em dois "enpoints" mapeados como: {ip:8081/api/data} e {ip:8081/api/update}. 
-Caso seja feita uma requisição para o endpoint "data", será retornado os dados armazenados em memória. Caso esses dados ainda não tenham sido carregados, será realizada uma busca em cima da API da Cross Commerce.
-A requisição para o endpoint "update" realizará um update nos dados em memória, processando uma nova busca de dados. 
+* (/api/data) realizará o retorno os dados armazenados em memória. Caso esses dados ainda não tenham sido carregados, será realizada uma busca em cima da API da Cross Commerce.
+* (/api/update) realizará um update nos dados em memória, processando uma nova busca de dados. 
 Após a busca dos dados, é realizada a ordenação através do algoritmo de MergeSort.
 
 ### Tecnologias
