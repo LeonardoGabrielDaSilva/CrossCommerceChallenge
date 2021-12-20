@@ -30,6 +30,8 @@ Após a busca dos dados, é realizada a ordenação através do algoritmo de Mer
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Spring Tools 4 for Eclipse](https://spring.io/tools)
+- [Maven](https://maven.apache.org/)
+- [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 ### Autor
 ---
