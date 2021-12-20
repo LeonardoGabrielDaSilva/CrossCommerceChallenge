@@ -12,6 +12,7 @@
 * Projeto proposto como desafio técnico pela Cross Commerce Store.
 * Desenvolvido em Java com o framework Spring, rodando em cima um servidor Tomcat.
 * API responsável por buscar dados de uma API da Cross Commerce e disponibilizá-los de forma ordenada através de um MergeSort.
+* A aplicação funcionará na porta 8081.
 
 
 ### Pré-requisitos
