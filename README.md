@@ -17,7 +17,7 @@
 
 ### Pré-requisitos
 
-*  Java 11
+*  Java 17
 
 ### EndPoints
 
